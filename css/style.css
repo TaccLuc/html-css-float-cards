@@ -35,3 +35,11 @@ header{
 h1{
     color: #E53170;
 }
+
+/* 
+    MAIN
+*/
+
+main > section p{
+    text-align: center;
+}
